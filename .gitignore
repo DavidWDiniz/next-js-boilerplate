@@ -35,3 +35,6 @@ yarn-error.log*
 
 # PhpStorm
 .idea
+
+# Tests snapshots
+__snapshots__
