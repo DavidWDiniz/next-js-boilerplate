@@ -1,5 +1,5 @@
 
-##Boilerplate NextJS
+## Boilerplate NextJS
 
 This is a [Next.js](https://nextjs.org/) boilerplate used in a course called [React Avançado](https://reactavancado.com.br/).
 ## What is inside?
