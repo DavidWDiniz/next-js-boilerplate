@@ -41,4 +41,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
-- `generate nameOfYourComponent`: Create a basic component structure
+- `generate nameOfYourComponent`: create a basic component structure

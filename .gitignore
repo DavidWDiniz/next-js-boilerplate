@@ -36,9 +36,6 @@ yarn-error.log*
 # PhpStorm
 .idea
 
-# Tests snapshots
-__snapshots__
-
 # sw stuff
 public/sw.js
 public/workbox-*.js
